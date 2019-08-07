@@ -67,8 +67,8 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website! I am a second year PhD student in Finance at [Columbia Business School](https://www8.gsb.columbia.edu/cbs-directory/phd/NKoont23). I want to understand how financial stability is affected by globalization and recent trends in financial intermediation. I am also interested in the interplay between finance and political economy. 
+Welcome to my website! I am a second year PhD student in Finance at [Columbia Business School](https://www8.gsb.columbia.edu/cbs-directory/phd/NKoont23). I want to understand financial stability in relation to globalization and recent trends in financial intermediation. In particular I am interested in how economics of networks can influence our understanding of financial fragility and crises. I'm also exploring the interplay between finance and political economy. 
 
-I'm originally from the Washington D.C. area. In 2018 I graduated from the University of Toronto with a BSc in math and economics, and a newfound appreciation for Canada. I enjoy trying to make sense of the world.
+I'm originally from the Washington D.C. area. In 2018 I graduated from the University of Toronto with a BSc in math and economics, and a newfound appreciation for Canada. I enjoy trying to make sense of the world. 
 
  
